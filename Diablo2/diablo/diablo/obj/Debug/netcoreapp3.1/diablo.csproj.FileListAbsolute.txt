@@ -1,0 +1,14 @@
+C:\Users\Fru\Documents\Diablo\diablo\diablo\bin\Debug\netcoreapp3.1\diablo.exe
+C:\Users\Fru\Documents\Diablo\diablo\diablo\bin\Debug\netcoreapp3.1\diablo.deps.json
+C:\Users\Fru\Documents\Diablo\diablo\diablo\bin\Debug\netcoreapp3.1\diablo.runtimeconfig.json
+C:\Users\Fru\Documents\Diablo\diablo\diablo\bin\Debug\netcoreapp3.1\diablo.runtimeconfig.dev.json
+C:\Users\Fru\Documents\Diablo\diablo\diablo\bin\Debug\netcoreapp3.1\diablo.dll
+C:\Users\Fru\Documents\Diablo\diablo\diablo\bin\Debug\netcoreapp3.1\diablo.pdb
+C:\Users\Fru\Documents\Diablo\diablo\diablo\obj\Debug\netcoreapp3.1\diablo.csproj.AssemblyReference.cache
+C:\Users\Fru\Documents\Diablo\diablo\diablo\obj\Debug\netcoreapp3.1\diablo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fru\Documents\Diablo\diablo\diablo\obj\Debug\netcoreapp3.1\diablo.AssemblyInfoInputs.cache
+C:\Users\Fru\Documents\Diablo\diablo\diablo\obj\Debug\netcoreapp3.1\diablo.AssemblyInfo.cs
+C:\Users\Fru\Documents\Diablo\diablo\diablo\obj\Debug\netcoreapp3.1\diablo.csproj.CoreCompileInputs.cache
+C:\Users\Fru\Documents\Diablo\diablo\diablo\obj\Debug\netcoreapp3.1\diablo.dll
+C:\Users\Fru\Documents\Diablo\diablo\diablo\obj\Debug\netcoreapp3.1\diablo.pdb
+C:\Users\Fru\Documents\Diablo\diablo\diablo\obj\Debug\netcoreapp3.1\diablo.genruntimeconfig.cache
